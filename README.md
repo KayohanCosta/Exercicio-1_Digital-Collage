@@ -1,9 +1,20 @@
 # Exercicio-1 Digital Collage
 
+---
 
-📄 Desafio 1 – Criar cardápio de Lanches Simples
-Objetivo: Criar um cardápio simples com título, subtítulo e uma lista de lanches com preços.
+### 💡 Regras Gerais:
+- Usar apenas HTML (sem CSS ou JavaScript).
+- Utilizar as tags: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<h1>`, `<h2>`, `<p>`, `<ul>`, `<li>`, `<strong>`, `<br>`, etc.
+- Salvar o arquivo como `index.html`.
+- Depois, **copiar o código em folha** para reforçar o aprendizado da estrutura HTML.
 
+---
+
+### 📄 Desafio 1 – Criar Cardápio de Lanches Simples
+
+**Objetivo:** Criar um cardápio simples com título, subtítulo e uma lista de lanches com preços.
+
+```html
 <h1>Cardápio da Lanchonete</h1>
 <h2>Lanches</h2>
 <ul>
@@ -11,10 +22,15 @@ Objetivo: Criar um cardápio simples com título, subtítulo e uma lista de lanc
   <li>X-Salada - R$ 12,00</li>
   <li>Hot Dog - R$ 8,00</li>
 </ul>
+```
 
-🍕 Desafio 2 – Criar Cardápio com Categorias
-Objetivo: Criar um cardápio com seções para lanches, bebidas e sobremesas.
+---
 
+### 🍕 Desafio 2 – Criar Cardápio com Categorias
+
+**Objetivo:** Criar um cardápio com seções para lanches, bebidas e sobremesas.
+
+```html
 <h1>Cardápio Completo</h1>
 
 <h2>Lanches</h2>
@@ -34,11 +50,15 @@ Objetivo: Criar um cardápio com seções para lanches, bebidas e sobremesas.
   <li>Sorvete - R$ 6,00</li>
   <li>Brownie - R$ 8,00</li>
 </ul>
+```
 
+---
 
-🍽️ Desafio 3 – Criar Cardápio com Descrição dos Pratos
-Objetivo: Criar um cardápio com nome do prato, descrição e preço, usando <p>, <strong> e quebras de linha (<br>).
+### 🍽️ Desafio 3 – Criar Cardápio com Descrição dos Pratos
 
+**Objetivo:** Criar um cardápio com nome do prato, descrição e preço, usando `<p>`, `<strong>` e quebras de linha (`<br>`).
+
+```html
 <h1>Cardápio Gourmet</h1>
 
 <h2>Prato do Dia</h2>
@@ -54,3 +74,4 @@ Objetivo: Criar um cardápio com nome do prato, descrição e preço, usando <p>
   Chá preto com limão e hortelã.<br>
   <strong>Preço:</strong> R$ 6,50
 </p>
+```
