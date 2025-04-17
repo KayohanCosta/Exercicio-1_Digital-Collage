@@ -6,7 +6,6 @@
 - Usar apenas HTML (sem CSS ou JavaScript).
 - Utilizar as tags: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<h1>`, `<h2>`, `<p>`, `<ul>`, `<li>`, `<strong>`, `<br>`, etc.
 - Salvar o arquivo como `index.html`.
-- Depois, **copiar o código em folha** para reforçar o aprendizado da estrutura HTML.
 
 ---
 
