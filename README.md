@@ -14,6 +14,8 @@
 
 **Objetivo:** Criar um cardápio simples com título, subtítulo e uma lista de lanches com preços.
 
+### Exemplo:
+
 ```html
 <h1>Cardápio da Lanchonete</h1>
 <h2>Lanches</h2>
@@ -29,6 +31,8 @@
 ### 🍕 Desafio 2 – Criar Cardápio com Categorias
 
 **Objetivo:** Criar um cardápio com seções para lanches, bebidas e sobremesas.
+
+### Exemplo:
 
 ```html
 <h1>Cardápio Completo</h1>
@@ -57,6 +61,8 @@
 ### 🍽️ Desafio 3 – Criar Cardápio com Descrição dos Pratos
 
 **Objetivo:** Criar um cardápio com nome do prato, descrição e preço, usando `<p>`, `<strong>` e quebras de linha (`<br>`).
+
+### Exemplo:
 
 ```html
 <h1>Cardápio Gourmet</h1>
